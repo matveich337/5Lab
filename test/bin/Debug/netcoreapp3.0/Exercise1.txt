@@ -1,0 +1,9 @@
+ Perimeter: 30 || Square: 50
+ Perimeter: 120 || Square: 500
+ Perimeter: 22 || Square: 18
+ Perimeter: 15,707963267948966 || Square: 19,634954084936208
+ Perimeter: 43,982297150257104 || Square: 153,93804002589985
+ Perimeter: 62,83185307179586 || Square: 314,1592653589793
+ Perimeter: 18 || Square: 12
+ Perimeter: 19 || Square: 13,997767679169419
+ Perimeter: 14 || Square: 9,16515138991168
